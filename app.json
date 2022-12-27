@@ -26,7 +26,7 @@
       },
       "BOT_TOKEN": {
         "description": "Your Bot Token. Generated using @BotFather",
-        "value": "5961933776:AAGVoecisqEKKPxhGIz1Nsrubo9iXbPsIQM"
+        "value": "5602056717:AAFqGz3QrSB8QVeG9GIsYU78sG5_4x1kA60"
       },
       "SUDO_USERS": {
         "description": "Users who can use the bot",
