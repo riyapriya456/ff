@@ -14,23 +14,23 @@
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org! Please do not steal",
-        "value": ""
+        "value": "19376711"
       },
       "API_HASH": {
         "description": "Get this value from my.telegram.org! Please do not steal",
-        "value": ""
+        "value": "97d6b9d4999508a0c29d71c348d33351"
       },
       "STRING": {
         "description": "Generate a telethon string session",
-        "value": ""
+        "value": "1BVtsOHsBu0xRiT62eWFl7QUGee_RPU9RbAAHBz5Vl9T9BeAiZJHbpo6cjgKt5OIGaG0QF0scAISV1LJKJnU7laRsdoF0Tw0Ler7-8BORU0Zafc4Lq6UezHk1WTUHV4Hbvx6i0ulaRHqBQoi4vSTwWZrWeMJ2MOX4_s7clrwOqAkIgJOBXfqd2gp8SuAT8cKxyiB04ktRv5Z873hiKbkTM6uz4cyc7btoJMC1bp1rFI5_Zac5qVGN2laCWwKlLCyx029NfXztwA71Uzntu9U3wvPeDboRJOPuSL-ucU02wT5OFZla4QhU87qhGzasuHlm-pwFLi6MImSPDcl9qt-ktUsCT_QO34I="
       },
       "BOT_TOKEN": {
         "description": "Your Bot Token. Generated using @BotFather",
-        "value": ""
+        "value": "5961933776:AAGVoecisqEKKPxhGIz1Nsrubo9iXbPsIQM"
       },
       "SUDO_USERS": {
         "description": "Users who can use the bot",
-        "value": ""
+        "value": "1580642587"
       },
       "ENV": {
         "description": "Dont Do Anything",
