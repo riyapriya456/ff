@@ -8,9 +8,9 @@
       "telegram-forwardbot",
       "productivity"
     ],
-    "repository": "https://github.com/garudan-123/FORCE-SUB",
-    "website": "https://github.com/garudan-123/FORCE-SUB",
-    "success_url": "https://github.com/garudan-123/FORCE-SUB",
+    "repository": "https://github.com/rahulps100/ForwardBot",
+    "website": "https://github.com/rahulps100/ForwardBot",
+    "success_url": "https://github.com/rahulps100/ForwardBot",
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org! Please do not steal",
